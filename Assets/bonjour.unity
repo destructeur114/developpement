@@ -2540,7 +2540,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3865938638336981598, guid: eb4dd5bb1825c4b4f9455672faf1d425, type: 3}
       propertyPath: m_Name
-      value: Square
+      value: sol
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eb4dd5bb1825c4b4f9455672faf1d425, type: 3}
